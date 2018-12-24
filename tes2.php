@@ -10,4 +10,5 @@
 ?>
 tessssss
 <form action="tes">
+    <input type="text" name="aaaa" value="aaa" />
 </form>
